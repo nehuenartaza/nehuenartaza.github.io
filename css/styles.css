@@ -11,6 +11,16 @@ div {
     background-color: white;
 }
 
+#mainContainer, #secondaryContainer {
+    display: inline-block;
+    width: 50%;
+}
+
+#mainContainer {
+    float: right;
+}
+
 nav {
     background-color: rgb(0, 153, 255);
+    height: 60px;
 }
